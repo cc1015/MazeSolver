@@ -1,0 +1,28 @@
+The program begins with a default 10x10 unbiased random maze.
+
+To begin depth first search:
+press "d"
+* the search will end once the exit has been reached
+
+To begin breadth first search:
+press "b"
+* the search will end once the exit has been reached
+
+To toggle the visibility of visited paths:
+press " "
+
+To move around:
+press right, left, up, and down
+* can only move if search is not occurring
+* your current location is the yellow square
+* once you've reached the exit, you win!
+
+To produce a new unbiased maze of random size:
+press "n"
+
+To produce a random vertically biased maze:
+press "v"
+
+To produce a random horizontally biased maze:
+press "h"
+
